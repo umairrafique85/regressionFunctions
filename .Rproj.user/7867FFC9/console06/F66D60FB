@@ -1,0 +1,25 @@
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git init
+Initialized empty Git repository in /home/umair/Desktop/Fiverr/regressionFunctions/.git/
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git remote add origin https://github.com/ umairrafique85/regressionFunctions.git
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git push -u origin master
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/umairrafique85/regressionFunctions.git'
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git pu[K[K[K[K[K[Kgit remote add origin m[Khttps://github.com/ ums[Kairrafique85/regressionFunctions.git
+fatal: remote origin already exists.
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git push origin master
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/umairrafique85/regressionFunctions.git'
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git pull
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ ls[K[Kgit pull orign[Kin[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit [K[K[K[Kls
+kuandykoll.Rproj  task2.pdf  task2.R  task3.pdf  task3.R  testData.csv	test.R
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git add .

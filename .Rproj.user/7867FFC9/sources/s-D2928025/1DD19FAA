@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583094441314.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1DD19FAA",
+    "lastKnownWriteTime" : 273,
+    "last_content_update" : 1583094441314,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B079A7B8",
+        "caption" : "Blackmore",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Blackmore&cache_key=B079A7B8",
+        "displayedObservations" : 945,
+        "environment" : "",
+        "object" : "Blackmore",
+        "preview" : 0,
+        "totalObservations" : 945,
+        "variables" : 4
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

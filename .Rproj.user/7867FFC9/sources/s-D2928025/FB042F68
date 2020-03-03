@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583092932294.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "128|36|133|4|\n",
+    "hash" : "0",
+    "id" : "FB042F68",
+    "lastKnownWriteTime" : 1583262861,
+    "last_content_update" : 1583262861877,
+    "path" : "~/Desktop/Fiverr/regressionFunctions/task2.R",
+    "project_path" : "task2.R",
+    "properties" : {
+        "cursorPosition" : "139,0",
+        "scrollLine" : "121"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

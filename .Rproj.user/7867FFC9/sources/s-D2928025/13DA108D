@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583092888274.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "13DA108D",
+    "lastKnownWriteTime" : 1583122252,
+    "last_content_update" : 1583122252750,
+    "path" : "~/Desktop/Fiverr/regressionFunctions/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "cursorPosition" : "34,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

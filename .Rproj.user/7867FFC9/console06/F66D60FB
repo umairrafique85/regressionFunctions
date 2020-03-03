@@ -23,3 +23,73 @@ If you wish to set tracking information for this branch you can do so with:
 ]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ ls[K[Kgit pull orign[Kin[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit [K[K[K[Kls
 kuandykoll.Rproj  task2.pdf  task2.R  task3.pdf  task3.R  testData.csv	test.R
 ]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git add .
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git commit -m "regression mean[K[K[K[Kof mean functio ns[K made. fixing names of terms for vifs"
+[master (root-commit) a67dda2] regression of mean function made. fixing names of terms for vifs
+ 52 files changed, 2273 insertions(+)
+ create mode 100644 .RData
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/7867FFC9/console06/F66D60FB
+ create mode 100644 .Rproj.user/7867FFC9/console06/F66D60FB.env
+ create mode 100644 .Rproj.user/7867FFC9/console06/INDEX001
+ create mode 100644 .Rproj.user/7867FFC9/rmd-outputs
+ create mode 100644 .Rproj.user/7867FFC9/saved_source_markers
+ create mode 100644 .Rproj.user/7867FFC9/sources/prop/7F606ADF
+ create mode 100644 .Rproj.user/7867FFC9/sources/prop/AD3FC093
+ create mode 100644 .Rproj.user/7867FFC9/sources/prop/B116A818
+ create mode 100644 .Rproj.user/7867FFC9/sources/prop/BB2D2EE7
+ create mode 100644 .Rproj.user/7867FFC9/sources/prop/C51E3A56
+ create mode 100644 .Rproj.user/7867FFC9/sources/prop/D2ABA9F1
+ create mode 100644 .Rproj.user/7867FFC9/sources/prop/FA544D64
+ create mode 100644 .Rproj.user/7867FFC9/sources/prop/INDEX
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/13DA108D
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/13DA108D-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/1DD19FAA
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/1DD19FAA-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/2933F00-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/546ABD03
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/546ABD03-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/585552F1-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/627DB814-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/76FE4CDC-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/93D7F-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/B68980A5
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/B68980A5-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/C07855DE-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/D9EFC1DB-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/E032E7A6
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/E032E7A6-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/EADFB3B9-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/EE7C579A-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/FB042F68
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/FB042F68-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/FC35E404
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/FC35E404-contents
+ create mode 100644 .Rproj.user/7867FFC9/sources/s-D2928025/lock_file
+ create mode 100644 .Rproj.user/7867FFC9/viewer-cache/2EE8473.Rdata
+ create mode 100644 .Rproj.user/7867FFC9/viewer-cache/B079A7B8.Rdata
+ create mode 100644 .Rproj.user/7867FFC9/viewer-cache/C23A1292.Rdata
+ create mode 100644 .Rproj.user/7867FFC9/viewer-cache/CE949F86.Rdata
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 kuandykoll.Rproj
+ create mode 100644 task2.R
+ create mode 100644 task2.pdf
+ create mode 100644 task3.R
+ create mode 100644 task3.pdf
+ create mode 100644 test.R
+ create mode 100644 testData.csv
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git push origin master
+error: cannot run rpostback-askpass: No such file or directory
+Username for 'https://github.com': git     umar irrafiuqe   que85@gmai. l.com
+error: cannot run rpostback-askpass: No such file or directory
+Password for 'https://umairrafique85@gmail.com@github.com': 
+Counting objects: 44, done.
+Delta compression using up to 4 threads.
+Compressing objects:   2% (1/39)   Compressing objects:   5% (2/39)   Compressing objects:   7% (3/39)   Compressing objects:  10% (4/39)   Compressing objects:  12% (5/39)   Compressing objects:  15% (6/39)   Compressing objects:  17% (7/39)   Compressing objects:  20% (8/39)   Compressing objects:  23% (9/39)   Compressing objects:  25% (10/39)   Compressing objects:  28% (11/39)   Compressing objects:  30% (12/39)   Compressing objects:  33% (13/39)   Compressing objects:  35% (14/39)   Compressing objects:  38% (15/39)   Compressing objects:  41% (16/39)   Compressing objects:  43% (17/39)   Compressing objects:  46% (18/39)   Compressing objects:  48% (19/39)   Compressing objects:  51% (20/39)   Compressing objects:  53% (21/39)   Compressing objects:  56% (22/39)   Compressing objects:  58% (23/39)   Compressing objects:  61% (24/39)   Compressing objects:  64% (25/39)   Compressing objects:  66% (26/39)   Compressing objects:  69% (27/39)   Compressing objects:  71% (28/39)   Compressing objects:  74% (29/39)   Compressing objects:  76% (30/39)   Compressing objects:  79% (31/39)   Compressing objects:  82% (32/39)   Compressing objects:  84% (33/39)   Compressing objects:  87% (34/39)   Compressing objects:  89% (35/39)   Compressing objects:  92% (36/39)   Compressing objects:  94% (37/39)   Compressing objects:  97% (38/39)   Compressing objects: 100% (39/39)   Compressing objects: 100% (39/39), done.
+Writing objects:   2% (1/44)   Writing objects:   4% (2/44)   Writing objects:   6% (3/44)   Writing objects:   9% (4/44)   Writing objects:  11% (5/44)   Writing objects:  13% (6/44)   Writing objects:  15% (7/44)   Writing objects:  18% (8/44)   Writing objects:  20% (9/44)   Writing objects:  22% (10/44)   Writing objects:  25% (11/44)   Writing objects:  27% (12/44)   Writing objects:  29% (13/44)   Writing objects:  31% (14/44)   Writing objects:  34% (15/44)   Writing objects:  36% (16/44)   Writing objects:  38% (17/44)   Writing objects:  40% (18/44)   Writing objects:  43% (19/44)   Writing objects:  45% (20/44)   Writing objects:  47% (21/44)   Writing objects:  52% (23/44)   Writing objects:  54% (24/44)   Writing objects:  56% (25/44)   Writing objects:  61% (27/44)   Writing objects:  63% (28/44)   Writing objects:  65% (29/44)   Writing objects:  68% (30/44)   Writing objects:  70% (31/44)   Writing objects:  72% (32/44)   Writing objects:  75% (33/44)   Writing objects:  77% (34/44)   Writing objects:  79% (35/44)   Writing objects:  81% (36/44)   Writing objects:  84% (37/44)   Writing objects:  86% (38/44)   Writing objects:  88% (39/44)   Writing objects:  90% (40/44)   Writing objects:  93% (41/44)   Writing objects:  95% (42/44)   Writing objects:  97% (43/44)   Writing objects: 100% (44/44)   Writing objects: 100% (44/44), 443.92 KiB | 0 bytes/s, done.
+Total 44 (delta 6), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/6)[Kremote: Resolving deltas: 100% (6/6)[Kremote: Resolving deltas: 100% (6/6), done.[K
+To https://github.com/umairrafique85/regressionFunctions.git
+ * [new branch]      master -> master
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ vim .gitigr[Knore
+]0;umair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions]7;file://umair-ThinkPad-T420/home/umair/Desktop/Fiverr/regressionFunctionsumair@umair-ThinkPad-T420:~/Desktop/Fiverr/regressionFunctions$ git add .
